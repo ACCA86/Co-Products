@@ -116,7 +116,7 @@ section .con-img:hover .box-hidden{display:inline-block;}
 .con-box span{margin-bottom:0px;font-size:14px;color:red;text-decoration:line-through;}
 
 
-.advertis{width:98%;height:300px;background:#f0f;display:flex;margin:20px;}
+.advertis{width:98%;height:300px;display:flex;margin:20px;}
 .advertis .photo-ad{display:flex;width:50%;height:100%;}
 .advertis .photo-ad img{width:100%;height:100%;}
 
